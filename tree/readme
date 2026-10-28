@@ -1,1 +1,2 @@
-Ejemplo de árbol de clasificación
+Este directorio contiene dos ejemplos, el primer ejemplo implementa un árbol de decisión para un dataset cuyo objetivo es predecir posible diabetes estacional con base en un estudio con mujeres de la India.
+El segundo ejemplo implementa no solamente áboles de decisión, si no además regresión lineal y Ridge, y random forest para predecir las ganancia de pequeñas empresas StartUp.

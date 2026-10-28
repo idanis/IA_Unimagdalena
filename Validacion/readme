@@ -1,1 +1,1 @@
-
+Este directorio contiene un ejemplo que implementa GridSearchCV para ajustar hiperparámetros luego de haber hecho una evaluación inicial con modelos bases de cuatro métodos distintos: regresión(Ridge, Lasso), árboles (árbol de decisión, random forest)
